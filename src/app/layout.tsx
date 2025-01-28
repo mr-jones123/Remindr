@@ -10,6 +10,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Remindr",
   description: "Remind to Grind",
+  manifest : "/manifest.json"
 };
 
 export default function RootLayout({
